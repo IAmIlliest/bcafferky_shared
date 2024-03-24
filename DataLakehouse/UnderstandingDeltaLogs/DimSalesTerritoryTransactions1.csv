@@ -1,0 +1,5 @@
+SalesTerritoryKey,SalesTerritoryAlternateKey,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup
+1,1,Northwest,United States,Federation
+2,2,Northeast,United States,Klingon Empire
+99,99,Kalos,Cronos,Klingon Empire
+3,3,DELETE,DELETE
