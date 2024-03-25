@@ -6,6 +6,7 @@ quick twiddle 2 to nudge history for bfg testing
 quick twiddle 3 to nudge history for bfg testing
 quick twiddle 4 to nudge history for bfg testing
 quick twiddle 5 to nudge history for bfg testing
+quick twiddle 6 to nudge history for bfg testing
 
 %sh
 unzip \
